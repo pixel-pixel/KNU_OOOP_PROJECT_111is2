@@ -1,0 +1,4 @@
+#Tue Apr 07 14:36:32 EEST 2020
+base.0=/home/andrew/libGDX games/111is2/111is2\!/android/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
